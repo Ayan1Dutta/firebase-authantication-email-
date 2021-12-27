@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LastLogin</string>
+    <string name="already_registered">Already Registered ?</string>
+    <string name="register_here">Register Here</string>
+    <string name="your_password">Your Password</string>
+    <string name="your_email">Your Email</string>
+</resources>

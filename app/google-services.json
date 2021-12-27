@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347691240284",
+    "project_id": "lastlogin-846fb",
+    "storage_bucket": "lastlogin-846fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347691240284:android:4b2d3bf35b53facd354f99",
+        "android_client_info": {
+          "package_name": "com.example.lastlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347691240284-5046rf27043sq00cls9863650lf51npv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVwrEUou_9U0bCUTvHj6KbUAtVKeQQ3ZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347691240284-5046rf27043sq00cls9863650lf51npv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
